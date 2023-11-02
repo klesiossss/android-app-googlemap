@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Gmaps</string>
+    <string name="api_key">AIzaSyC56ABjgbnY17a-okHWm_hhaYCLXhEyHDQ</string>
+    <string name="latitude_string">Latitude now:</string>
+    <string name="longitude_string">Longitude now:</string>
+    <string name="latitude">latitude:</string>
+    <string name="longitude">longitude:</string>
+    <string name="refresh">refresh now:</string>
 </resources>

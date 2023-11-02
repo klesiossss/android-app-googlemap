@@ -33,8 +33,5 @@ object BitMapHelper {
            vectorDrawable.draw(canvas)
            return BitmapDescriptorFactory.fromBitmap(bitmap)
        }
-
-
    }
-
 }
